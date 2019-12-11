@@ -1,0 +1,11 @@
+.vs/SheetsApi/v16
+.vs/SheetsApi/v15
+.vs/SheetsApi/DesignTimeBuild
+
+/.vs/SheetsApi/v15/Server/sqlite3
+/.vs/config/applicationhost.config
+
+
+SheetsApi/obj
+SheetsApi/bin
+SheetsApi/google-credentials.json
